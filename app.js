@@ -13,3 +13,6 @@ let enteredText = inputElement.value
 console.log('entered text');
 }
 inputElement.addEventListener('input', reteriveUserInput);
+{
+
+}
